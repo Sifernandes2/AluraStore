@@ -1,4 +1,4 @@
-# Challenge AluraSore
+# Challenge AluraStore
 # 📊 Alura Store – Análise de Desempenho das Lojas
 
 Este projeto tem como objetivo apoiar a tomada de decisão do Senhor João sobre qual de suas lojas deve ser vendida, com base em uma análise de dados sobre vendas, avaliações, categorias de produtos, produtos mais/menos vendidos e frete médio.
